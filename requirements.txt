@@ -1,5 +1,5 @@
 flask
-flasl_wtf
+flask_wtf
 wtforms
 flask_login
 requests
